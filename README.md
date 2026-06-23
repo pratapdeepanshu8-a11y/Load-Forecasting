@@ -206,7 +206,6 @@ Project: Electricity Load Forecasting Using Machine Learning
 
 ## 📜 License
 
-This project is developed for educational and research purposes.
 requirements.txt
 
 streamlit
